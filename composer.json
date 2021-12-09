@@ -1,0 +1,24 @@
+{
+  "name": "pavelstudio/functional-curl",
+  "description": "Component extending standard functions for curl",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Pavel Mister",
+      "email": "pavel.mister@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/PavelMister/functional-curl"
+  },
+  "require": {
+    "php": "^7.0",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
