@@ -2,6 +2,7 @@
   "name": "pavelstudio/functional-curl",
   "description": "Component extending standard functions for curl",
   "license": "BSD-3-Clause",
+  "version": "1.0.3",
   "authors": [
     {
       "name": "Pavel Mister",
